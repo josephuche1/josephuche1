@@ -1,23 +1,3 @@
-<div align="center">
-  <img height="150" src="https://static.vecteezy.com/system/resources/thumbnails/005/734/824/small/programming-code-icon-3d-low-polygonal-abstract-programming-code-symbol-in-hand-coding-or-hacker-background-development-and-software-concept-illustration-vector.jpg"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=josephuche1.josephuche1&left_color=black"  />
-</div>
-
-###
-
 <h1 align="center">Hi there 👋 I'm Joseph</h1>
 
 ###
