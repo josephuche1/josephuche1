@@ -1,4 +1,4 @@
-#Hi there 👋 I'm Joseph
+<h1> Hi there 👋 I'm Joseph</h1>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
+<h3 align="left">My Stats :</h3>
 
 ###
 
