@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">A third-year Computer Science student with over 5years of coding experience. I am a software developer with passion for AI<br><br>-🌏 I am based in Nicosia, Cyprus.<br>-✉️ You can contact me at uchejesusboy@gmail.com<br>- 📚 I'm currently learning Java</p>
+<p align="left">A third-year Computer Science student with over 5years of coding experience. I am a software developer with passion for AI<br><br>-🌏 I am based in Nicosia, Cyprus.<br>-✉️ You can contact me at <a href="mailto:uchejesusboy@gmail.com">uchejesusboy@gmail.com</a><br>- 📚 I'm currently learning Java</p>
 
 ###
 
