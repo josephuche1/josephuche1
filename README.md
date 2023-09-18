@@ -6,11 +6,17 @@
 
 ###
 
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=josephuche1.josephuche1&"  />
+</div>
+
+###
+
 <p align="left">A third-year Computer Science student with over 5years of coding experience. I am a software developer with passion for AI<br><br>-🌏 I am based in Nicosia, Cyprus.<br>-✉️ You can contact me at <a href="mailto:uchejesusboy@gmail.com">uchejesusboy@gmail.com</a></p>
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Languages and tools</h3>
 
 ###
 
@@ -36,6 +42,8 @@
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  /></a>
   <img width="12" />
   <a href="https://www.python.org/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  /></a>
+  <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /></a>
+</div>
 </div>
 
 ###
