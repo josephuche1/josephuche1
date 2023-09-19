@@ -1,4 +1,4 @@
-<h1> Hi there <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" alt="" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> I'm Joseph</h1>
+<h1> Hi there 👋 I'm Joseph</h1>
 
 ###
 
