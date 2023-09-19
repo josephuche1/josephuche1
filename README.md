@@ -51,6 +51,8 @@
 ###
 
 <div align="left">
+  <a href="https://www.sqlite.org/docs.html"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="40" alt="sqlite logo"  /></a>
+  <img width="12" />
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  /></a>
   <img width="12" />
   <a href="https://www.css3.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" height="40" alt="css3 logo"  /></a>
