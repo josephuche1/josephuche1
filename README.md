@@ -39,7 +39,7 @@
  <div align="left">
     <a href="https://getbootstrap.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  /></a>
   <img width="12" />
-   <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-7.0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /></a>
+<!--    <a href="https://learn.microsoft.com/en-us/dotnet/desktop/winforms/overview/?view=netdesktop-7.0"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  /></a> -->
   <img width="12" />
   <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /></a>
  </div>
