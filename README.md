@@ -41,6 +41,10 @@
    <a href="https://jquery.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo"  /></a>
    <img width="12" />
    <a href="https://command-line-tutorial.readthedocs.io/"><img src="https://bashlogo.com/img/symbol/svg/monochrome_light.svg" height="40" width="40" alt="command line logo" /></a>
+   <img width="12" />
+   <a href="https://nodejs.org/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
+  <img width="12" />
+  <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="40" alt="expressjs logo"  /></a>
  </div>
 
 ###
