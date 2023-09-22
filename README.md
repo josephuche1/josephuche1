@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🛠 Other tools I have work with</h3>
+<h3 align="left">🛠 Other tools I work with</h3>
 
 ###
 
