@@ -60,7 +60,7 @@
   <img width="12" />
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
   <img width="12" />
-  <a href="https://postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman logo" height="40></a>
+  <a href="https://postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman logo" height="40"></a>
 </div>
 
 ###
