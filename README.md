@@ -49,7 +49,7 @@
 
 ###
 
-<h3 align="left">🛠 Other tools I have worked with</h3>
+<h3 align="left">🛠 Other tools I have work with</h3>
 
 ###
 
@@ -59,6 +59,8 @@
   <a href="https://www.arduino.cc/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="arduino logo"  /></a>
   <img width="12" />
   <a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  /></a>
+  <img width="12" />
+  <a href="https://postman.com/"><img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman logo" height="40></a>
 </div>
 
 ###
