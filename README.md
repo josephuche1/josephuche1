@@ -46,7 +46,7 @@
    <img width="12" />
    <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="40" alt="expressjs logo"  /></a>
    <img width="12" />
-   <a href="https://www.npmjs.com/package/axios"><img src="https://avatars.githubusercontent.com/u/32372333?v=4&s=400" height="40" alt="Axios logo"  /></a>
+   <a href="https://axios-http.com/docs/intro"><img src="https://avatars.githubusercontent.com/u/32372333?v=4&s=400" height="40" alt="Axios logo"  /></a>
  </div>
 
 ###
