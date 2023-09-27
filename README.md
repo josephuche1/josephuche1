@@ -45,6 +45,8 @@
    <a href="https://nodejs.org/api/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  /></a>
    <img width="12" />
    <a href="https://expressjs.com/"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" height="40" alt="expressjs logo"  /></a>
+   <img width="12" />
+   <a href="https://www.npmjs.com/package/axios"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Axios_%28computer_library%29_logo.svg/768px-Axios_%28computer_library%29_logo.svg.png?20220213115456" height="20" width="30" alt="Axios logo"  /></a>
  </div>
 
 ###
