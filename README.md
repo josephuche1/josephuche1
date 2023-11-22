@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">A Computer Science student with over 5years of coding experience. I am a software developer with passion for AI<br><br>-🌏 I am based in Nicosia, Cyprus.<br>-✉️ You can contact me at <a href="mailto:uchejesusboy@gmail.com">uchejesusboy@gmail.com</a></p>
+<p align="left">I am a software developer with passion for AI<br><br>-🌏 I am based in Nicosia, Cyprus.<br>-✉️ You can contact me at <a href="mailto:uchejesusboy@gmail.com">uchejesusboy@gmail.com</a></p>
 
 ###
 
