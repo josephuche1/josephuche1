@@ -28,6 +28,7 @@
    <a href="https://isocpp.org/get-started"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg" height="35" alt="c++ logo"  /></a>
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="35" alt="csharp logo"  /></a>
    <a href="https://www.python.org/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  /></a>
+   <a href="https://docs.oracle.com/javase/8/docs/api/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  /></a>
  </div>
 
 ###
