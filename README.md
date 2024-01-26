@@ -13,7 +13,7 @@
 ###
 
 <p align="left">
-I'm a third-year Computer Science student at the University of Nicosia. I'm passionate about AI and Augmented Reality, constantly working on projects to enhance my skills. Currently seeking internships to further elevate my expertise. Let's code the future together! 🚀 Feel free to contact me at <a href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=josephuche2404@gmail.com">josephuche2404@gmail.com</a>. </p>
+I'm a third-year Computer Science student at the University of Nicosia. I'm passionate about AI and Augmented Reality, constantly working on projects to enhance my skills. Currently seeking internships to further elevate my expertise. Let's code the future together! 🚀 Feel free to contact me at <a href="mailto:josephuche2404@gmail.com">josephuche2404@gmail.com</a>. </p>
 
 ###
 
