@@ -31,7 +31,7 @@ I'm a third-year Computer Science student at the University of Nicosia. I'm pass
    <a href="https://learn.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-plain.svg" height="35" alt="csharp logo"  /></a>
    <a href="https://www.python.org/downloads/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  /></a>
    <a href="https://docs.oracle.com/javase/8/docs/api/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java logo"  /></a>
-   <a href="https://tailwindcss.com/">  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="35" alt="tailwindcss logo"  /></a>
+   <a href="https://tailwindcss.com/">  <img src="https://github.com/user-attachments/assets/51cd8efd-f42e-42d9-87a7-bacb9a19348d" height="30" alt="tailwindcss logo"  /></a>
  </div>
 
 ###
