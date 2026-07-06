@@ -1,20 +1,28 @@
-Hi, I'm Jo 👋
+# Hi, I'm Jo 👋
 
-I'm a backend developer focused on building secure REST APIs with:
+I'm a **backend developer** focused on building secure and scalable REST APIs.
 
-• Node.js
-• TypeScript
-• Prisma
-• PostgreSQL
-• Docker
+---
 
-Current Projects
+## 🛠️ Tech Stack
 
-🔹 Authentication API
-🔹 Event Analytics System (In Progress)
+- Node.js
+- TypeScript
+- Prisma
+- PostgreSQL
+- Docker
 
-Currently Learning
+---
 
-• Backend Architecture
-• Testing
-• Cloud Deployment
+## 🚧 Current Projects
+
+- 🔐 **Authentication API**
+- 📊 **Event Analytics System** *(in progress)*
+
+---
+
+## 📚 Currently Learning
+
+- Backend Architecture
+- Testing strategies
+- Cloud Deployment
