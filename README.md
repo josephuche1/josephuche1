@@ -76,5 +76,5 @@ A backend system focused on collecting, processing, and analyzing application ev
 
 ## 📫 Connect With Me
 
-- LinkedIn: [](https://www.linkedin.com/in/joseph-uche/)
-- GitHub: [](https://github.com/josephuche1)
+- [LinkedIn](https://www.linkedin.com/in/joseph-uche/)
+- [GitHub](https://github.com/josephuche1)
