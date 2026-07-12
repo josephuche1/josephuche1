@@ -55,7 +55,7 @@ An AI-powered cross-platform student assistant application designed to help stud
 - Integrated MongoDB Atlas, Brevo email services, and production Android deployments
 
 **Tech Stack:**
-`React Native` · `TypeScript` · `Python` · `Flask` · `FastAPI` · `MongoDB Atlas` · `OpenAI` · `Docker`
+`React Native` · `TypeScript` · `Python` · `Flask` · `FastAPI` · `MongoDB Atlas` · `OpenAI` 
 
 ---
 
