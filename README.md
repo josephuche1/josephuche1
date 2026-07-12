@@ -1,80 +1,107 @@
 # Hi, I'm Jo 👋
 
-I'm a **backend-focused software developer** passionate about building secure, scalable, and maintainable applications.
+I'm a **backend-focused software developer** passionate about building secure, scalable, and maintainable software solutions.
 
-I specialize in developing **REST APIs, authentication systems, and database-driven applications** using modern backend technologies. I enjoy designing clean architectures, solving technical problems, and continuously improving my engineering skills.
+I specialize in designing **REST APIs, authentication systems, database-driven applications, and AI-powered solutions** using modern backend technologies. I enjoy solving complex problems, designing clean architectures, and continuously improving my engineering skills.
 
 ---
 
 ## 🛠️ Tech Stack
 
-### Backend
+### Backend Development
 - Node.js
 - TypeScript
-- Express.js
+- Python
+- Flask
+- FastAPI
 - REST APIs
-- Prisma ORM
+- Authentication & Authorization
 
 ### Databases
 - PostgreSQL
 - MongoDB
+- Prisma ORM
+- Database Design
 
-### Tools & Other Technologies
+### Mobile & Frontend
+- React Native
+- Expo
+
+### Tools & Platforms
 - Docker
 - Git & GitHub
-- Python
-- React Native
+- Postman
+- Render
+- MongoDB Atlas
+
+### AI & Integrations
+- OpenAI API
+- AI Chat Systems
+- Hybrid AI Workflows
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🔐 Authentication API
+## 🤖 Phrolova — AI Student Assistant
 
-A secure backend authentication system featuring:
+An AI-powered cross-platform student assistant application designed to help students manage academic activities through intelligent conversations, scheduling, and personalized assistance.
 
-- User authentication and authorization
-- JWT-based security
-- Database modeling with Prisma
-- PostgreSQL integration
-- Input validation and error handling
-
----
-
-### 🤖 Phrolova Student Assistant
-
-An AI-powered mobile application designed to help students manage academic tasks and receive personalized assistance.
+### Highlights:
+- Built a React Native mobile application with AI chat, exam scheduling, study reminders, and calendar features
+- Designed a backend architecture using Flask API and FastAPI microservices
+- Implemented hybrid AI routing using intent classification and OpenAI-powered responses
+- Developed JWT authentication with email verification
+- Integrated MongoDB Atlas, Brevo email services, and production Android deployments
 
 **Tech Stack:**
-- React Native
-- Python
-- MongoDB
-- AI integrations
+`React Native` · `TypeScript` · `Python` · `Flask` · `FastAPI` · `MongoDB Atlas` · `OpenAI` · `Docker`
 
 ---
 
-### 📊 Event Analytics System *(In Progress)*
+## 🔐 Authentication API
 
-A backend system focused on collecting, processing, and analyzing application events.
+A secure backend authentication system focused on implementing modern authentication and authorization practices.
 
-**Focus Areas:**
-- REST API design
-- Data processing
-- Database architecture
+### Features:
+- JWT-based authentication
+- Protected API routes
+- User management
+- Input validation
+- Error handling
+- Database modeling
+
+**Tech Stack:**
+`Node.js` · `TypeScript` · `Prisma` · `PostgreSQL` · `Docker`
+
+---
+
+## 📊 Event Analytics System *(In Progress)*
+
+A backend system designed for collecting, processing, and analyzing application events.
+
+### Focus Areas:
+- REST API architecture
+- Database design
+- Event processing
 - Scalable backend development
+
+**Tech Stack:**
+`Node.js` · `TypeScript` · `PostgreSQL` · `Prisma`
 
 ---
 
 ## 📚 Currently Learning
 
 - Backend Architecture
+- System Design
 - Software Testing
 - Cloud Deployment
-- System Design
+- Scalable Application Development
 
 ---
 
 ## 📫 Connect With Me
 
 - [LinkedIn](https://www.linkedin.com/in/joseph-uche/)
-- [GitHub](https://github.com/josephuche1)
+- [Email](mailto:josephuche2404@gmail.com)
